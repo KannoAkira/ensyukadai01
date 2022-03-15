@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body{
+    background-color: cornflowerblue;  
+}
+
+.img{
+    text-align: center; 
+}
+
+.btn{
+    padding-bottom: 10px;
+}
+.btn a{
+    background-color: cadetblue;
+    color: #FFFFFF;
+    display: block;
+    width: 185px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    line-height: 50px;
+    border: solid 3px cadetblue;
+    margin: 0 auto;
+}
+.btn a:hover{
+    border: solid 3px cadetblue;
+    text-decoration: none;
+    color: cadetblue;
+    background: #FFFFFF;
+}

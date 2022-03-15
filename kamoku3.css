@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+body{
+    background-image: url("./img/net1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment : fixed;
+}
+
+.btn{
+    padding-bottom: 10px;
+}
+.btn a{
+    background-color: cadetblue;
+    color: #FFFFFF;
+    display: block;
+    width: 185px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    line-height: 50px;
+    border: solid 3px cadetblue;
+    margin: 0 auto;
+}
+.btn a:hover{
+    border: solid 3px cadetblue;
+    text-decoration: none;
+    color: cadetblue;
+    background: #FFFFFF;
+}
+
+#p{  
+    background-color: #FFFFFF;
+}
+
+#p1{  
+    background-color: #FFFFFF;
+}
+
+#p2{  
+    background-color: #FFFFFF;
+}
+
+.mokuji{
+    margin: 0 auto;
+    width: 200px;
+    border: 3px solid #708D81;
+    border-radius: 10px;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+    display: block;
+    line-height:20px;
+    padding: 5px 20px;
+}
