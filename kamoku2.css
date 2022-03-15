@@ -1,18 +1,39 @@
 @charset "utf-8";
 
 body{
-    background-color: cornflowerblue;  
+    background-color: #AFEEEE;  
 }
 
 .img{
     text-align: center; 
 }
 
+.mokuji{
+    margin: 0 auto;
+    width: 200px;
+    border: 3px solid #708D81;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}
+
+span{
+	background:linear-gradient(transparent 60%, #f6c 60%);
+}
+
+
+a{
+    color: #000000;
+    text-decoration: none;
+    display: block;
+    line-height:20px;
+    padding: 5px 20px;
+}
+
 .btn{
     padding-bottom: 10px;
 }
 .btn a{
-    background-color: cadetblue;
+    background-color: #696969;
     color: #FFFFFF;
     display: block;
     width: 185px;
@@ -21,12 +42,12 @@ body{
     border-radius: 5px;
     text-decoration: none;
     line-height: 50px;
-    border: solid 3px cadetblue;
+    border: solid 3px #696969;
     margin: 0 auto;
 }
 .btn a:hover{
-    border: solid 3px cadetblue;
+    border: solid 3px #696969;
     text-decoration: none;
-    color: cadetblue;
+    color: #696969;
     background: #FFFFFF;
 }
