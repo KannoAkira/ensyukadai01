@@ -12,3 +12,9 @@ a{
 a:hover{
     color: aqua;
 }
+
+.syoukai{
+    margin: 0 auto;
+    background-color: #CCCCFF;
+    width: 70%;
+}
