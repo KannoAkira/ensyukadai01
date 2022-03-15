@@ -3,6 +3,13 @@
 body{
     text-align: center;
     line-height: 50px;
+    background-image: url(./img/back.jpg);
+}
+h1{
+    color: blue;
+    background-color: lime;
+    width: 200px;
+    margin: 10px auto;
 }
 
 a{
@@ -16,5 +23,6 @@ a:hover{
 .syoukai{
     margin: 0 auto;
     background-color: #CCCCFF;
-    width: 70%;
+    width: 200px;
+    border-radius: 20%;
 }
